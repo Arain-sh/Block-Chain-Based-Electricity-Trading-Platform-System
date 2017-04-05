@@ -1,0 +1,25 @@
+{
+    "bookname": "Block-Chain-Based-Electricity-Trading-Platform-System",
+    "description": "Block-Chain-Based-Electricity-Trading-Platform-System",
+    "author": {
+        "name": "Arain",
+        "Email": "arain.shjia@gmail.com"
+    },
+    "keywords": [
+        "gitbook",
+        "summary",
+        "cli",
+        "nodejs",
+        "中文说明文档"
+    ],
+
+    "homepage": "http://Arain-sh.github.io/Block-Chain-Based-Electricity-Trading-Platform-System",
+    "license": "None",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Arain-sh/Block-Chain-Based-Electricity-Trading-Platform-System.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Arain-sh/sailsjs-docs-gitbook/issues"
+    }
+}
