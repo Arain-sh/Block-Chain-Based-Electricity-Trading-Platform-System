@@ -1,10 +1,7 @@
 {
     "bookname": "Block-Chain-Based-Electricity-Trading-Platform-System",
     "description": "Block-Chain-Based-Electricity-Trading-Platform-System",
-    "author": {
-        "name": "Arain",
-        "Email": "arain.shjia@gmail.com"
-    },
+    "author": "Arain",
     "keywords": [
         "gitbook",
         "summary",
